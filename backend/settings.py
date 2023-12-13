@@ -86,8 +86,8 @@ DATABASES = {
         'NAME': 'backend_final',
         'USER': 'saadat',
         'PASSWORD': 'password',
-        'HOST': 'localhost',
-        'PORT': '3306',
+        'HOST': '127.0.0.1',
+        'PORT': '',
         # 'linux socket': '/var/run/mysqld/mysqld.sock'
     }
 }
