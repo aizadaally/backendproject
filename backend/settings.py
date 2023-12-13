@@ -88,7 +88,7 @@ DATABASES = {
         'PASSWORD': 'password',
         'HOST': 'localhost',
         'PORT': '3306',
-        'linux socket': '/var/run/mysqld/mysqld.sock'
+        # 'linux socket': '/var/run/mysqld/mysqld.sock'
     }
 }
 
